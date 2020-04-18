@@ -1,5 +1,5 @@
 # A
-A is a basic light weight anti swearing plugin for bukkit/spigot
+A is a basic light weight anti swearing plugin for bukkit/spigot which was created as just a school project.
 
 This plugin is full setup with no need for a config since it already has most required words to be blocked pre coded in, 
 however if you need/want a word/phrase added just create a issue and I will add it or you could add it yourself buy going into the code and writing: 
