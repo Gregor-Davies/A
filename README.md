@@ -5,7 +5,7 @@ This plugin is full setup with no need for a config (Although it has one) since 
 word.add("Desired Word/phrase"); and it will add the word.
 or alternatively through the config :)
 
-Installtion:
+Installation :
 1. Click on the button on the right hand corner "Clone or download".
 2. Click on the "Download as a zip" Option.
 3. Extract the zip file with a program like 7zip.
