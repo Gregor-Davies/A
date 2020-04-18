@@ -9,6 +9,7 @@ Installtion:
 1. Click on the button on the right hand corner "Clone or download".
 2. Click on the "Download as a zip" Option.
 3. Extract the zip file with a program like 7zip.
+4. Compile the source file.
 4. Drop it into your plugin folder.
 5. Restart your server.
 6. Enjoy!
